@@ -1,0 +1,1 @@
+const getPropFromString = (str, obj) => str in obj;
